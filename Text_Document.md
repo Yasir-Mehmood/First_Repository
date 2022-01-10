@@ -1,5 +1,5 @@
 print("Quaid-e-Azam University Islamabad")
+
 print("Society for Promotion of Sciences")
+
 print("Team organizers of this event")
-print("Prof. Dr Farhan Saif")
-print("Maryam Naeem", "Yasir Mehmood", "M Faiq", "M Nasir")
